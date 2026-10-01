@@ -1,7 +1,7 @@
 function playVideo() {
     // Embed or load the video dynamically (e.g., using an iframe)
     const iframe = document.createElement('iframe');
-    iframe.src = "https://www.youtube.com/embed/RbjB3SIaabM";  // Example YouTube URL
+    iframe.src = "  ";  // Example YouTube URL
     iframe.frameborder = "0";
     iframe.allow = "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture";
     iframe.allowfullscreen = true;
